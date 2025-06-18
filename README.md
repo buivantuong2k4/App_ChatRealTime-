@@ -1,4 +1,5 @@
 📱 Ứng dụng Chat Realtime
+
 Ứng dụng nhắn tin thời gian thực được xây dựng bằng Kotlin, Jetpack Compose và Firebase trên Android Studio.
 
 📝 Giới thiệu
