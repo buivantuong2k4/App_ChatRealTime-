@@ -1,34 +1,56 @@
-📱 Ứng dụng Chat Realtime
+<h1 align="center">📱 App Chat Realtime</h1>
 
-Ứng dụng nhắn tin thời gian thực được xây dựng bằng Kotlin, Jetpack Compose và Firebase trên Android Studio.
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>
+</p>
 
-📝 Giới thiệu
-Dự án là một ứng dụng chat đơn giản dành cho thiết bị Android, sử dụng Kotlin và Jetpack Compose để xây dựng giao diện hiện đại. Ứng dụng tích hợp Firebase Authentication để đăng ký/đăng nhập người dùng và Firebase Realtime Database để gửi và nhận tin nhắn theo thời gian thực.
+<p align="center"><i>Ứng dụng chat thời gian thực, hiện đại cho Android, sử dụng Kotlin, Jetpack Compose và Firebase.</i></p>
 
-🔧 Công nghệ sử dụng
-Android Studio – Môi trường phát triển chính
+---
 
-Kotlin – Ngôn ngữ lập trình
+## 📝 Giới thiệu
 
-Jetpack Compose – Thư viện UI hiện đại
+App Chat Realtime là ứng dụng nhắn tin đơn giản cho thiết bị Android. Giao diện được xây dựng với Jetpack Compose hiện đại, dữ liệu realtime đồng bộ qua Firebase, đảm bảo trải nghiệm mượt mà và bảo mật cho người dùng.
 
-Firebase Authentication – Đăng ký, đăng nhập người dùng
+---
 
-Firebase Realtime Database – Lưu trữ và đồng bộ tin nhắn realtime
+## 🔧 Công nghệ sử dụng
 
-RecyclerView – Hiển thị danh sách người dùng
+- **Android Studio** – Môi trường phát triển chính
+- **Kotlin** – Ngôn ngữ lập trình
+- **Jetpack Compose** – Thư viện UI hiện đại
+- **Firebase Authentication** – Đăng ký, đăng nhập người dùng
+- **Firebase Realtime Database** – Lưu trữ & đồng bộ tin nhắn thời gian thực
+- **RecyclerView** – Hiển thị danh sách người dùng
 
-🚀 Tính năng chính
-Đăng ký: Tạo tài khoản bằng địa chỉ email hợp lệ
+---
 
-Đăng nhập: Xác thực người dùng bằng Firebase
+## 🚀 Tính năng nổi bật
 
-Đăng xuất: Thoát tài khoản dễ dàng từ menu
+- **Đăng ký:** Tạo tài khoản bằng email
+- **Đăng nhập:** Xác thực người dùng qua Firebase
+- **Đăng xuất:** Thoát tài khoản dễ dàng
+- **Danh sách người dùng:** Xem toàn bộ user đã đăng ký
+- **Phòng chat riêng:** Chat 1-1 với bất kỳ người dùng nào
+- **Nhắn tin realtime:** Gửi & nhận tin nhắn tức thì
+- **Giao diện hiện đại:** Thiết kế đẹp, thân thiện với Jetpack Compose
 
-Danh sách người dùng: Hiển thị toàn bộ người dùng đã đăng ký
+---
 
-Phòng chat riêng: Nhấn vào người dùng để bắt đầu trò chuyện 1-1
+## 📸 Ảnh minh họa
 
-Nhắn tin thời gian thực: Gửi và nhận tin nhắn ngay lập tức qua Firebase
+<!-- Thêm screenshot nếu có -->
+<p align="center">
+  <img src="assets/screenshot1.png" width="250"/>
+  <img src="assets/screenshot2.png" width="250"/>
+</p>
 
-Giao diện hiện đại: Thiết kế đẹp, dễ sử dụng với Jetpack Compose
+---
+
+## ⚙️ Cài đặt & Sử dụng
+
+1. **Clone repo:**
+   ```bash
+   git clone https://github.com/buivantuong2k4/App_ChatRealTime-.git
