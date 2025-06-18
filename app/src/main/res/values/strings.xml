@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppChat</string>
+    <string name="get_started">get Started</string>
+    <string name="stay_connected_with_your_friends_and_family">stay connected with your friends and family</string>
+    <string name="secure_private_messaging">Secure , private messaging</string>
+    <string name="wellcome_back">Wellcome back,</string>
+    <string name="jayant">jayant</string>
+    <string name="add_story">Add story</string>
+    <string name="okay">okay</string>
+    <string name="_12_23_pm">12_23_pm</string>
+    <string name="online">Online</string>
+    <string name="type_message">Type Message</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username_or_email_adress">Username or email adress</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email address</string>
+    <string name="repeat_password">Repeat password</string>
+</resources>
